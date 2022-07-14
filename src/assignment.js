@@ -33,7 +33,7 @@ const assignment = {};
  */
   let number= []
 function countEvenNumbers(arrayOfNumbers) {
-for(let i= 0; i < arrayOfNumbers.length; i++{
+for(let i= 0; i < arrayOfNumbers.length; i++){
   if(arrayOfNumbers[i] % 2 == 0){
    number.push(arrayOfNumbers[i]);
      };
